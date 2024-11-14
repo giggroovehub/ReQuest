@@ -18,7 +18,7 @@
 
   <!-- Header Section -->
   <div class="sm:mx-auto sm:w-full sm:max-w-sm text-center">
-    <h2 class="text-3xl font-extrabold text-gray-900">Admin Register</h2>
+    <h2 class="text-3xl font-extrabold text-gray-900">BAC Register</h2>
     <p class="mt-2 text-sm text-gray-600">Please create your account to access the dashboard.</p>
   </div>
 
@@ -88,9 +88,9 @@
 
       <!-- Additional Links -->
       <div class="mt-6 text-center">
-        <a href="../bac/register.php" class="text-sm font-semibold text-indigo-600 hover:text-indigo-500">Sign up as BAC</a>
+        <a href="../budget/register.php" class="text-sm font-semibold text-indigo-600 hover:text-indigo-500">Sign up as Budget</a>
         <a href="../end-user/register.php" class="text-sm font-semibold text-indigo-600 hover:text-indigo-500 ml-4">Sign up as End-user</a>
-        <a href="../end-user/register.php" class="text-sm font-semibold text-indigo-600 hover:text-indigo-500 ml-4">Sign up as Budget</a>
+        <a href="../end-user/login.php" class="text-sm font-semibold text-indigo-600 hover:text-indigo-500 ml-4">Sign up as End-User</a>
       </div>
     </form>
   </div>
